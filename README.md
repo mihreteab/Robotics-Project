@@ -6,6 +6,8 @@ Group
 2)Tewodros Yesmaw           ATR/4025/08
 3)Natnael Sisay             ATR/8617/08
 4)Biniam Birhanemeskel      NSR/0911/08
+5)Hizkias Abraham           ATR/9733/07
+6)Ermias Bitew              ATR/2215/08
 
 
 How to run the code
