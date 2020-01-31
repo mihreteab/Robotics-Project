@@ -1,0 +1,8 @@
+prefix=/home/mihre/~catkin_ws/devel
+
+Name: gazebo_arm
+Description: Description of gazebo_arm
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/mihre/~catkin_ws/devel/lib 
+Requires: roscpp gazebo_ros
