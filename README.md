@@ -18,6 +18,18 @@ step3: update the source using "source devel/setup.bash" command on catkin folde
 step4: run the arm using roslaunch "roslaunch gazebo_arm arm.launch"
 step5: run the mobile robot using "roslaunch gazebo_robot hello.launch"
 
+another option
+
+step1) clone the project into any folder
+step2) then open the Robotics-Project/src
+step3) then copy the the folders robot-arm and gazebo-robot into your catkin_ws/src
+step4: compile the project using "catkin_make" command on catkin_ws folder
+step5: update the source using "source devel/setup.bash" command on catkin folder
+step6: run the arm using roslaunch "roslaunch gazebo_arm arm.launch"
+step7: run the mobile robot using "roslaunch gazebo_robot hello.launch"
+
+
+
 
 
 
